@@ -1,0 +1,103 @@
+body{
+	 background: #fff;
+  color: black;
+  background: #222;
+  line-height: 1.7;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.responsive {
+  width: 85%;
+  height: auto;
+}
+
+div.ven{
+	font-family:helvetica;
+	margin: auto;
+    width: 90%;
+    border: 6px solid #0000FF;
+    padding: 20px;
+	font-size:30px;
+	color:#ffcccc;
+}
+
+div.npt{
+	color:red;
+	font-size:40px;
+	padding:20px;
+}
+
+div.tx{
+
+	font-size:30px;
+	padding:20px;
+	color:D0E420;
+}
+
+div.bp{
+	color:gray;
+	font-size:40px;
+	padding:20px;
+}
+
+div.info{
+	color:white;
+	font-size:30px;
+	padding:20px;
+}
+
+div.ris{
+	font-size:25px;
+	color:black;
+	background-color:red;
+	
+}
+
+div.fin{
+	color:white;
+	font-size:25px;
+}
+
+div.fin2{
+	color:black;
+	
+	background-color:#FAFAD2;
+}
+
+	.container {
+  border-radius: 20px;
+  background-color:	#CD853F;
+  padding: 30px 30px;
+  width:80%;
+  
+  
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+.btn-primary{
+padding:15px 15px;
+height:45px;
+width:80px;
+color:black;
+background-color:gold;
+}
+
+
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-md-6"] {
+    width: 100%;
+  }
+}

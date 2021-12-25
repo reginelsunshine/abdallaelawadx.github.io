@@ -1,0 +1,8 @@
+body {
+  background-color: #800000;
+  color: #d6d6c2;
+  background: #222;
+  line-height: 1.7;
+  font-size: 16px;
+  font-weight: 300;
+  }
